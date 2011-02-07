@@ -1,6 +1,6 @@
 = rets
 
-Description goes here.
+This is a fork of https://github.com/Shazzaam/rets which works on RETS 1.7 and Ruby 1.9.2 but doesn't support user agent password authentication. This fork aims at implementing it.
 
 == Note on Patches/Pull Requests
  
@@ -15,4 +15,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 scrosley. See LICENSE for details.
+See LICENSE for details.
